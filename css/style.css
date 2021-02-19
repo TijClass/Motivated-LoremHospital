@@ -10,3 +10,7 @@ body , h1 , h2 , h3 , h4 , h5 , h6 *
 { 
     font-size : 200 px
 }
+.w3-third  i{
+    
+    font-size: 12rem;
+}
